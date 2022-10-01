@@ -71,7 +71,7 @@
     position: relative;
 }
 
-/* .topbarIconBadge{
+.topbarIconBadge{
     width: 15px;
     height: 15px;
     background-color: red;
@@ -84,7 +84,7 @@
     align-items: center;
     justify-content: center;
     font-style: 12px;
-} */
+}
 
 .topbarImg{
     width: 32px;
